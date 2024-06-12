@@ -1,0 +1,59 @@
+# Citrus Software
+
+At the time of writing this not all features/technologies are used or implemented.
+This is more of a planning and preparation session
+
+**Contact Information**
+Phone: 573-291-8667
+Email: mattmckeller@gmail.com
+
+## Project Description
+____ is a platform to aid Exceptional Student Education(ESE) by providing an organized and efficient way of recording and tracking student progress.
+
+## Features
+**General**
+* View list of students in your organization
+* Add, edit, and view students, student related notes, goals, and attendance recordings for all teachers within an organization.
+* Prohibited access to information based on a teachers associated and confirmed organizations.
+* Export All & Export Individual student reports for a specified time period.
+
+**Internal**
+* Add organization
+* Set organizational administrator role
+
+**Other**
+* Auto update when new version comes out
+* Text messaging & Emailing
+
+
+### Roles
+* Teacher Role
+* Organizational Administrator Role
+* Admin
+
+Students graduating and changing schools
+Allow changing of schools for a student
+
+## Technologies
+* React Native - ES6, Flow, Eslint
+* Laravel + Eloquent - PHP
+* Swagger & Postman // todo::link to files
+* AWS - Hosting, Auth, DB
+* Packages ( not all packages listed )
+  * NativeBase
+  * Redux + Redux Thunk + Redux-Form
+  * LoDash
+
+## Tools Used
+* Phpstorm
+* MySqlWorkbench //todo::Link to file or picture of db layout
+* Adobe XD - Wireframes, High Fidelity //todo::Link to wireframes & high fidelity
+* Trello
+* Git + Github //todo::Link to github repo
+* Xcode
+* Mac OS
+* Notepad, Pages, Google Docs
+* Google, StackOverflow
+
+## Explore the code
+// todo::list out notable sections of code including design patterns used etc.
